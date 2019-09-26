@@ -15,4 +15,19 @@ PARADIGMA DECLARATIVO
 Se basa en describir un problema con reglas y parámetros que deben cumplirse para que el ordenador resuelva dicho
 problema.
 
+PARADIGMA FUNCIONAL
+Basado en los modelos de cómputo cálculo lambda (Lisp, Scheme) y lógica combinatoria (familia ML, Haskell).
+Las funciones son elementos de primer orden.
+Evaluación por reducción funcional. Técnicas:
+Recursividad; Parámetros acumuladores, CPS, Mónadas.
+1. Familia LISP (Common-Lisp, Scheme):
+	Basados en s-expresiones.
+	Tipado debil.
+	Meta-programación.
+2. Familia ML (Miranda, Haskell, Scala):
+	Sistema estricto de tipos (tipado algebraico).
+	Concordancia de patrones.
+	Transparencia referencial.
+	Evaluación perezosa (estructura de datos infinitas).
+
 
