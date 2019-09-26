@@ -29,5 +29,7 @@ Recursividad; Parámetros acumuladores, CPS, Mónadas.
 	Concordancia de patrones.
 	Transparencia referencial.
 	Evaluación perezosa (estructura de datos infinitas).
-
-
+PARADIGMA LOGICO 
+Un programa lógico conta de un conjunto de fórmulas lógicas que expresan propiedades satisfechas por un cierto problema.
+En el caso más habitual estas fórmulas pertenecen a un subconjunto de la lógica de predicados de primer orden.
+PROLOG:Tiene su origen en la lógica,es el lenguaje de programación más apropiado para el tratamiento del lenguaje humano.
