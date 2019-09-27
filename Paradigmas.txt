@@ -33,3 +33,8 @@ PARADIGMA LOGICO
 Un programa lógico conta de un conjunto de fórmulas lógicas que expresan propiedades satisfechas por un cierto problema.
 En el caso más habitual estas fórmulas pertenecen a un subconjunto de la lógica de predicados de primer orden.
 PROLOG:Tiene su origen en la lógica,es el lenguaje de programación más apropiado para el tratamiento del lenguaje humano.
+
+PARADIGMA BASADO EN OBJETOS
+la programación orientada a objetos es una forma de programar que proliferó a partir de los años ochenta.
+la Programación Orientada a Objetos es una paradigma de programación que define los programas en términos de "clases de objetos",
+gobjetos que son entidades que combinan estado, comportamiento e identidad.
